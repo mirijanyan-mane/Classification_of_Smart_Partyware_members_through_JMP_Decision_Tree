@@ -1,1 +1,4 @@
-# Classification_of_Smart_Partyware_members_through_JMP_Decision_Tree
+# Project: Smart Partyware members supervised classification using JMP Decision Tree model.
+
+Case Details: DSO 528_Case1 
+
