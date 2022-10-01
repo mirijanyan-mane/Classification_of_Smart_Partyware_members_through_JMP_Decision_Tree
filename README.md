@@ -1,0 +1,1 @@
+# Classification_of_Smart_Partyware_members_through_JMP_Decision_Tree
